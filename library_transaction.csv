@@ -1,0 +1,16 @@
+transaction_id,date,user_id,book_title,genre,borrowing_duration_days
+T001,01-07-2025,U1001,The Great Gatsby,Fiction,14
+T002,02-07-2025,U1002,A Brief History of Time,Science,21
+T003,02-07-2025,U1003,The Power of Now,Spirituality,10
+T004,03-07-2025,U1004,The Alchemist,Fiction,7
+T005,04-07-2025,U1005,1984,Dystopian,30
+T006,05-07-2025,U1006,1984,Dystopian,15
+T007,06-07-2025,U1007,Becoming,Biography,20
+T008,06-07-2025,U1008,1984,Dystopian,12
+T009,07-07-2025,U1009,Becoming,Biography,18
+T010,08-07-2025,U1010,The Power of Now,Spirituality,25
+T011,09-07-2025,U1011,1984,Dystopian,11
+T012,09-07-2025,U1012,Becoming,Biography,2
+T013,10-07-2025,U1013,The Alchemist,Fiction,21
+T014,11-07-2025,U1014,The Great Gatsby,Fiction,9
+T015,11-07-2025,U1015,The Alchemist,Fiction,6
